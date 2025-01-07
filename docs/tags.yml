@@ -1,0 +1,4 @@
+machine-tutorials:
+  label: 'Machine Tutorials'
+  permalink: '/machine-tutorials'
+  description: 'Maintenance and usage of machines'
